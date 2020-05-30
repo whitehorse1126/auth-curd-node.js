@@ -1,2 +1,2 @@
-# auth-curd-node.js
+# auth-crud-node.js
 authentication/crud with node.js
